@@ -7,5 +7,5 @@ __"In software engineering, CI/CD or CICD generally refers to the combined pract
 __"Jenkins is a free and open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat."__
 
 
-# Jenkins setup process
-1. 
+# Jenkins 
+![](jenkins.png)
